@@ -1,3 +1,13 @@
-body {
-  background-color: SpringGreen;
+table, tr, td, th{
+  border: 1px solid black;
+}
+td{
+  background-color: MediumAquaMarine;
+  color: Azure;
+  font-family: 'PT Serif', serif;
+}
+th{
+  background-color: MediumAquaMarine;
+  color: Azure;
+  font-family: 'PT Serif', serif;
 }
