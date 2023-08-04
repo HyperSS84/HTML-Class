@@ -10,4 +10,21 @@ th{
   background-color: MediumAquaMarine;
   color: Azure;
   font-family: 'PT Serif', serif;
+  text-align: center;
+}
+h1{
+  color: Azure;
+  font-family: 'PT Serif', serif;
+  text-align: center;
+}
+#PAR1{
+  color: Azure;
+  font-family: 'PT Serif', serif;
+}
+body{
+  background-color: #FFC6AC;
+}
+#PAR2{
+  color: Azure;
+  font-family: 'PT Serif', serif;
 }
