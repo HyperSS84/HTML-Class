@@ -16,10 +16,12 @@ h1{
   color: Azure;
   font-family: 'Cedarville Cursive', cursive;
   text-align: center;
+  font-size: 30
 }
 #PAR1{
   color: Azure;
   font-family: 'PT Serif', serif;
+  font-size: 20
 }
 body{
   background-color: #FFC6AC;
