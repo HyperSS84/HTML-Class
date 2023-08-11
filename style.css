@@ -32,7 +32,7 @@ body{
   display: block;
   margin: auto;
   width: 378px;
-  height: 183.5px;  
+  height: 200px;  
 }
 #IMG1{
   display: inline;
@@ -41,13 +41,13 @@ body{
 }
 #IMG2{
   display: inline;
-  width: 235px;
-  height: 177px;  
+  width: 232px;
+  height: 232px;  
 }
 #IMG3{
   display: inline;
-  width: 250px;
-  height: 125px;  
+  width: 232px;
+  height: 232px;  
 }
 .images{
   margin:auto;
