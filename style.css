@@ -28,3 +28,27 @@ body{
   color: Azure;
   font-family: 'PT Serif', serif;
 }
+#IMG0{
+  display: block;
+  margin: auto;
+  width: 378px;
+  height: 183.5px;  
+}
+#IMG1{
+  display: block;
+  margin: auto;
+  width: 232px;
+  height: 232px;  
+}
+#IMG2{
+  display: block;
+  margin: auto;
+  width: 235px;
+  height: 177px;  
+}
+#IMG3{
+  display: block;
+  margin: auto;
+  width: 250px;
+  height: 125px;  
+}
