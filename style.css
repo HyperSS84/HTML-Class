@@ -35,20 +35,17 @@ body{
   height: 183.5px;  
 }
 #IMG1{
-  display: block;
-  margin: auto;
+  display: inline;
   width: 232px;
   height: 232px;  
 }
 #IMG2{
-  display: block;
-  margin: auto;
+  display: inline;
   width: 235px;
   height: 177px;  
 }
 #IMG3{
-  display: block;
-  margin: auto;
+  display: inline;
   width: 250px;
   height: 125px;  
 }
